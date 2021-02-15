@@ -1,5 +1,9 @@
-theme: jekyll-theme-midnight
+author: Cole Huinker
+email: cole.huin@gmail.com
 title: Cole Huinker
-description: All about me
-about: All about me
+description: Portfolio
+about: Portfolio
+github_username: chuinker
+
 markdown: kramdown
+theme: jekyll-theme-midnight
