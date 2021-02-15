@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
-{:.no_toc}
-You can use the [editor on GitHub](https://github.com/chuinker/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## About Me
+{:.no_toc}
+Hi, I'm a software engineer with a degree in Computer Engineering. I have an Interest in web development, desktop application development, and game development.
 
 * TOC
 {:toc}
 
-### Markdown
+## Digital Resume
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
